@@ -9,7 +9,7 @@ Problem Statement - Analysis Vrinda store data to increase customer growth and o
 - Conditional Formatting
 
 ## Dashboard Preview
-(<img width="1905" height="702" alt="Screenshot 2026-06-23 125601" src="https://github.com/user-attachments/assets/c10cb165-1622-4e38-82d1-0c290ac8745b" />)
+<img width="1905" height="702" alt="Screenshot 2026-06-23 125601" src="https://github.com/user-attachments/assets/c10cb165-1622-4e38-82d1-0c290ac8745b" />
 
 ## Key Insights
 - Identified top-selling states and products.
