@@ -13,7 +13,7 @@ Problem Statement - Analysis Vrinda store data to increase customer growth and o
 
 ## Key Insights
 - Analyzed 31,047 sales records using Microsoft Excel.
-- Built an interactive dashboard with 6 KPIs, 8 Pivot Tables, and 10 visualizations.
+- Built an interactive dashboard with 6 Pivot Tables, and 10 visualizations.
 - Identified that women generated 64.8% of total sales.
 - Found that customers aged 30–49 contributed 49.7% of revenue.
 - Determined that Amazon, Flipkart, and Myntra accounted for 79.8% of total orders.
